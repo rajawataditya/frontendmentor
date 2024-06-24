@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 4px;
+}
+body {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  margin-top: 6rem;
+}
+div {
+  margin: 0.25rem;
+}
+.container {
+  height: auto;
+  width: 30vw;
+  border: 2px solid rgb(220, 209, 209);
+  border-radius: 0.75rem;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 10px 10px 10px grey;
+}
+
+.nameInput {
+  display: flex;
+  gap: 1rem;
+}
+
+.querySelector {
+  display: flex;
+}
+.querySelector inpu t {
+  width: auto;
+}
+.Selector {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+#msg-Input {
+  height: 4rem;
+}
+.consent {
+  display: flex;
+}
+.btn-submit {
+  background-color: rgb(20, 87, 28);
+  color: white;
+}
+
+.hide {
+  display: none;
+}
